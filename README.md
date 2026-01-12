@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanyinsola
-- 👀 I’m interested in telling stories with data
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in problem solving with data
+- 🌱 I’m building ETL pipelines and end-to-end analytical projects
 - 💞️ I’m looking to collaborate on analytical projects
 - 📫 Reach me: diyankanyinsola@gmail.com
 
